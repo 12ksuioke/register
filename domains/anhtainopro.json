@@ -1,0 +1,12 @@
+{
+  "description": "Personal website for anhtainopro",
+  "repo": "https://github.com/12ksuioke",
+  "owner": {
+    "username": "12ksuioke",
+    "email": "pemtaoha@gmail.com"
+  },
+  "record": {
+    "CNAME": "12ksuioke.github.io"
+  },
+  "proxied": true
+}
